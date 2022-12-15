@@ -97,4 +97,11 @@
 
     </LinearLayout>
 
+    <TextView
+        android:id="@+id/textViewLink"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="https://github.com/Izatul-Nabilah/Assigntment1"
+        android:textColor="#FFFFFF" />
+
 </LinearLayout>
